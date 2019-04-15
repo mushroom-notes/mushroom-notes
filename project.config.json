@@ -1,0 +1,15 @@
+{
+	"description": "three mushroom's home",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx36f7c679bbb43fd2",
+	"projectname": "mushroom_notes",
+	"miniprogramRoot": "dist/",
+	"condition": {}
+}
